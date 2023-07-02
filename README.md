@@ -52,10 +52,6 @@
 
 ![Upload Gambar](img/upload_gambar.PNG)
 
-- Hasilnya akan seperti ini ketika gambar telah di upload.
-
-![Hasil](img/result.PNG)
-
 ## Pertanyaan dan Tugas
 <p>Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi.</p>
 
